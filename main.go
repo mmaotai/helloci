@@ -6,6 +6,6 @@ import (
 
 func main() {
 
-	fmt.Println("commit 2")
+	fmt.Println("commit 3")
 	fmt.Println("Hello GitHub Actions!")
 }
